@@ -15,7 +15,7 @@
  * FILE: main.s
  *
  * DESCRIPTION:
- * An STM32F401 button interrupt driver written entirely in Assembler.
+ * An STM32F401, button interrupt driver written entirely in Assembler.
  *
  * AUTHOR: Kevin Thomas
  * CREATION DATE: March 9, 2024
